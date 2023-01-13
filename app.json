@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/Princess/Princess",
+    "pages/Princess/ImagShow/ImagShow",
+    "pages/Movies/Movies"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Disney World",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "home",
+        "iconPath": "/images/tab/chengbao.png",
+        "selectedIconPath": "/images/tab/chengbao1.png"
+      },
+      {
+        "pagePath": "pages/Princess/Princess",
+        "text": "Princess",
+        "iconPath": "/images/tab/wangguan.png",
+        "selectedIconPath": "/images/tab/wangguan1.png"
+      },
+      {
+        "pagePath": "pages/Movies/Movies",
+        "text": "Movies",
+        "iconPath": "/images/tab/dianying.png",
+        "selectedIconPath": "/images/tab/dianying1.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap70.json"
+}
