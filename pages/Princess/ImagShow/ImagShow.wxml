@@ -1,0 +1,19 @@
+<!--pages/Princess/ImagShow/ImagShow.wxml-->
+<view class="pic-box">
+<image class="item1" src="https://pictures-1302545733.cos.ap-nanjing.myqcloud.com/sw4.jpg" mode="widthFix"></image>
+<image class="item2" src="https://pictures-1302545733.cos.ap-nanjing.myqcloud.com/sw5.jpg" mode="widthFix"></image>
+<image class="item3" src="https://pictures-1302545733.cos.ap-nanjing.myqcloud.com/sw6.jpg" mode="widthFix"></image>
+</view>
+<view class="pic-box">
+<image class="item1" src="https://pictures-1302545733.cos.ap-nanjing.myqcloud.com/sw7.jpg" mode="widthFix"></image>
+<image class="item2" src="https://pictures-1302545733.cos.ap-nanjing.myqcloud.com/sw8.jpg" mode="widthFix"></image>
+<image class="item3" src="https://pictures-1302545733.cos.ap-nanjing.myqcloud.com/sw9.jpg" mode="widthFix"></image>
+</view>
+<view class="pic-box">
+<image class="item1" src="https://pictures-1302545733.cos.ap-nanjing.myqcloud.com/sw10.jpg" mode="widthFix"></image>
+<image class="item2" src="https://pictures-1302545733.cos.ap-nanjing.myqcloud.com/sw11.jpg" mode="widthFix"></image>
+<image class="item3" src="https://pictures-1302545733.cos.ap-nanjing.myqcloud.com/sw12.jpg" mode="widthFix"></image>
+</view>
+<button bindtap="navigateBack">Turn back</button>
+<view class="message" style="background-color:#333">
+</view>

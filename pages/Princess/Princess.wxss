@@ -1,0 +1,22 @@
+/* pages/Princess/Princess.wxss */
+Page{
+  text-align: center;
+}
+.sw{
+  font-weight: bold;
+  color: crimson;
+}
+.banner1{
+  border: 1px red;
+  height: 250px;
+}
+.banner1 swiper{
+  width: 100%;
+  height: 100%;
+}
+.item-link{
+  margin: 5px;
+  font-style: inherit;
+  font-size: 15px;
+}
+

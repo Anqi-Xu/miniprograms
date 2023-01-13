@@ -1,0 +1,4 @@
+/* pages/Princess/ImagShow/ImagShow.wxss */
+.pic-box{
+  display: flex;
+}

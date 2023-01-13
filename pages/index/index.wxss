@@ -1,0 +1,28 @@
+/**index.wxss**/
+Page{
+  text-align: center;
+}
+
+.castle{
+  border-radius: 5px;
+  
+}
+.title{
+  margin-top:10px;
+  color: blueviolet;
+  font-style: oblique;
+  font-size: 17px;
+  font-weight: bold;
+  border:2px solid blue;
+}
+.body1{
+  padding: 20px;
+  color: chocolate;
+  font-style: unset;
+  line-height: 2;
+}
+.body2{
+  padding: 20px;
+  font-size: 15px;
+  color: hotpink;
+}

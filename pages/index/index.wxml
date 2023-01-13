@@ -1,0 +1,15 @@
+<view class="home">
+<image class="castle" mode="widthFix"
+src="https://pictures-1302545733.cos.ap-nanjing.myqcloud.com/photo.png"></image>
+<view class="title">Welcome to the Disney world!</view>
+<view>Hello {{username}}! It's so nice to meet you!</view>
+<view class="body1">
+Here, you can find your favorite Disney characters and learn more interesting things about them.</view>
+<view class="body2">
+At the same time, you can also travel to Disneyland in the cloud and come to the fairy tale world!
+What is your favorite Disney character? What are you waiting for? Just come and have fun with me!
+</view>
+<image class="pic" src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3887593121,479095496&fm=26&gp=0.jpg" mode="widthFix"></image>
+</view>
+<video id="myVideo" src="http://wxsnsdy.tc.qq.com/105/20210/snsdyvideodownload?filekey=30280201010421301f0201690402534804102ca905ce620b1241b726bc41dcff44e00204012882540400&bizid=1023&hy=SH&fileparam=302c020101042530230204136ffd93020457e3c4ff02024ef202031e8d7f02030f42400204045a320a0201000400" binderror="videoErrorCallback" danmu-list="{{danmuList}}" enable-danmu danmu-btn controls>
+</video>

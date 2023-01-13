@@ -1,0 +1,17 @@
+<!--pages/Princess/Princess.wxml-->
+<view class="sw">Snow White</view>
+<view class="banner1">
+<swiper indicator-dots indicator-color="White">
+<swiper-item><image src="/images/sw1.jpg"/></swiper-item>
+<swiper-item><image src="/images/sw2.jpg"/></swiper-item>
+<swiper-item><image src="/images/sw3.jpg"/></swiper-item>
+</swiper>
+</view>
+<view class="piclink">
+<navigator class="item-link" url="/pages/Princess/ImagShow/ImagShow">Click here to see more.</navigator>
+</view>
+
+
+
+
+
